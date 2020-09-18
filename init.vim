@@ -6,7 +6,7 @@
 " and use a font from https://github.com/ryanoasis/nerd-fonts in your terminal 
 " (if you aren't using one of those fonts, you will see funny characters here. 
 " Turst me, they look nice when using one of those fonts).
-let fancy_symbols_enabled = 0
+let fancy_symbols_enabled = 1
 
 
 set encoding=utf-8
